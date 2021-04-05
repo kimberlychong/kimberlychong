@@ -1,13 +1,18 @@
 👩🏻‍💻 Hi, I’m Kim! I'm a software developer in Arizona who primarily works with the Java programming language ☕️ and Spring framework 🍃
 
-### Interests
+### Interests 👀
 * web development
 * creative coding
 * data visualization
 
-### Learning
+### Learning 🌱
 * JavaScript
 * React
+
+### Hobbies
+* traditional and digital art 🎨
+* comic books 📚
+* tabletop roleplaying games (TTRPGs) 🎲
 
 <!---
 kimberlychong/kimberlychong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
