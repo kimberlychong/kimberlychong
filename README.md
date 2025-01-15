@@ -1,4 +1,4 @@
-👩🏻‍💻 Hi, I’m Kim! I'm a software developer in Arizona who primarily works with the Java programming language ☕️ and Spring framework 🍃
+👩🏻‍💻 Hi, I’m Kim! I'm a software engineer living in Arizona.
 
 ### Interests
 * web development
@@ -6,8 +6,7 @@
 * data visualization
 
 ### Learning
-* JavaScript
-* React
+* VueJS
 
 ### Hobbies
 * traditional and digital art 🎨
